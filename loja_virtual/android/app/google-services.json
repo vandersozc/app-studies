@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "881628833146",
+    "firebase_url": "https://lojavirtual-beb32.firebaseio.com",
+    "project_id": "lojavirtual-beb32",
+    "storage_bucket": "lojavirtual-beb32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881628833146:android:6d055af34292a6f3",
+        "android_client_info": {
+          "package_name": "br.com.vcampanholi.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881628833146-j7u0ilaf67cvt3gv1km99rbot8n2ncsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK6HarnymeJtCwtJNrIdOn-gAgufmjWVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881628833146-j7u0ilaf67cvt3gv1km99rbot8n2ncsa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
