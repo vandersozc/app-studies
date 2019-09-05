@@ -1,0 +1,1 @@
+import 'package:cloud_firestore/cloud_firestore.dart';import 'package:flutter/material.dart';class PlaceTile extends StatelessWidget {  final DocumentSnapshot snaphsot;  PlaceTile(this.snaphsot);  @override  Widget build(BuildContext context) {    return Container();  }}
